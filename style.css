@@ -1,0 +1,5 @@
+body {
+  background: linear-gradient(to right,  red,  orange,  yellow,  lime,  cyan);
+    text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
