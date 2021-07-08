@@ -1,5 +1,12 @@
 body {
-  background: linear-gradient(to right,  red,  orange,  yellow,  lime,  cyan);
+  background: linear-gradient(to right,  red,  orange,  yellow,  lime);
     text-align: center;
   font-family: 'Poppins', sans-serif;
+}
+img {
+    border-style: solid;
+    border-color: black;
+    border-radius:50px;
+    width: 20%;
+    height: 170px;
 }
